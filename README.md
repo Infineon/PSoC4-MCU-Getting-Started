@@ -14,9 +14,16 @@ Feel free to explore through the code example source files and Let us innovate t
 
 # Navigating the Repository
 
-The examples provided on this GitHub page are grouped into different categories like Connectivity (BLE, USB, CAN, LIN), Digital Subsystem  (TCPWM, I2C, UART, SPI etc.), Analog Subsystem (ADC, CapSense) etc. for ease of understanding at block levels. You can use these block level examples to guide you through the development of a system-level design.
-All the code examples in this repository comes with well documented design guidelines to help you understand the design and how to develop it. The code examples and their associated documentation are located in the Code Example folder in the repository.
-The master branch will always point to the latest release. Older releases can be accessed by checking out/downloading their corresponding branch. 
+The examples provided on this GitHub page helps you to get acquainted with PSoC 4 MCU and how to use PSoC Creator to develop a PSoC 4 MCU based design.
+For block level examples please refer to the following GitHub repositories:
+•	Analog Designs
+•	Digital Designs
+•	Connectivity Designs
+•	Device Related Designs
+•	PSoC 4 Pioneer Kit Designs
+•	System Designs
+
+You can use these block level examples to guide you through the development of a system-level design using PSoC 4 MCU. All the code examples in this repository comes with well documented design guidelines to help you understand the design and how to develop it. The code examples and their associated documentation are located in the Code Example folder in the repository. 
 
 # Required Tools
 
@@ -61,12 +68,11 @@ PSoC Creator utilizes "components" as interfaces to functional Hardware (HW). Ea
 ##### #2.4 PSoC 4 MCU Technical Reference Manuals (TRM)
 The TRM provides detailed descriptions of the internal architecture of PSoC 4 devices:[PSoC 4 MCU TRMs](https://community.cypress.com/external-link.jspa?url=http%3A%2F%2Fwww.cypress.com%2Fsearch%2Fall%3Ff%255b0%255d%3Dmeta_type%253Atechnical_documents%26f%255b1%255d%3Dfield_related_products%253A1297%26f%255b2%255d%3Dresource_meta_type%253A583)
 
-##### #2.5 Technical Support
+## FAQ
+
+### Technical Support
 If you have any queries or questions, our technical support team would be happy to assist you. You can create a support request at [This link] (https://secure.cypress.com/myaccount/?id=25&techSupport=1), or if you are in the United States, you can talk to our technical support team by calling our toll-free number +1-800-541-4736 and then selecting option 8 at the IVR prompt. 
 
 You can also use the following support resources if you need quick assistance: 
 Self-help: [http://www.cypress.com/support] (http://www.cypress.com/support)
 Local Sales office locations: [http://www.cypress.com/about-us/sales-offices] (http://www.cypress.com/about-us/sales-offices)
-
-## FAQ
-
