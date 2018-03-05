@@ -16,12 +16,12 @@ Feel free to explore through the code example source files and Let us innovate t
 
 The examples provided on this GitHub page helps you to get acquainted with PSoC 4 MCU and how to use PSoC Creator to develop a PSoC 4 MCU based design.
 For block level examples please refer to the following GitHub repositories:
-•	Analog Designs
-•	Digital Designs
-•	Connectivity Designs
-•	Device Related Designs
-•	PSoC 4 Pioneer Kit Designs
-•	System Designs
+## •	Analog Designs
+## •	Digital Designs
+## •	Connectivity Designs
+## •	Device Related Designs
+## •	PSoC 4 Pioneer Kit Designs
+## •	System Designs
 
 You can use these block level examples to guide you through the development of a system-level design using PSoC 4 MCU. All the code examples in this repository comes with well documented design guidelines to help you understand the design and how to develop it. The code examples and their associated documentation are located in the Code Example folder in the repository. 
 
