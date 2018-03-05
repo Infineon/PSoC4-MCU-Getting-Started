@@ -16,7 +16,7 @@ Feel free to explore through the code example source files and Let us innovate t
 
 The examples provided on this GitHub page helps you to get acquainted with PSoC 4 MCU and how to use PSoC Creator to develop a PSoC 4 MCU based design.
 For block level examples please refer to the following GitHub repositories:
-## Analog Designs
+### 1. Analog Designs
 ## Digital Designs
 ## Connectivity Designs
 ## Device Related Designs
