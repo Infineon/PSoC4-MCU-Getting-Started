@@ -17,14 +17,14 @@ Feel free to explore through the code example source files and Let us innovate t
 The examples provided on this GitHub page helps you to get acquainted with PSoC 4 MCU and how to use PSoC Creator to develop a PSoC 4 MCU based design.
 For block level examples please refer to the following GitHub repositories:
 
-#### 1. Analog Designs
-#### 2. [CapSense](https://github.com/cypresssemiconductorco/PSoC-4-MCU-CapSense)
-#### 3. [Digital Designs](https://github.com/cypresssemiconductorco/PSoC-4-MCU-Digital-Designs)
+#### 1. [Analog Designs](https://github.com/cypresssemiconductorco/PSoC4-MCU-Analog-Designs)
+#### 2. [CapSense](https://github.com/cypresssemiconductorco/PSoC4-MCU-CapSense)
+#### 3. [Digital Designs](https://github.com/cypresssemiconductorco/PSoC4-MCU-Digital-Designs)
 #### 4. BLE
-#### 5. [USB](https://github.com/cypresssemiconductorco/PSoC-4-MCU-USB-Connectivity-Designs)
-#### 6. [Device Related Designs](https://github.com/cypresssemiconductorco/PSoC-4-MCU-Device-Related-Designs)
-#### 7. [PSoC 4 Pioneer Kit](https://github.com/cypresssemiconductorco/PSoC-4-MCU-Pioneer-Kits)
-#### 8. System Design
+#### 5. [USB](https://github.com/cypresssemiconductorco/PSoC4-MCU-USB-Connectivity-Designs)
+#### 6. [Device Related Designs](https://github.com/cypresssemiconductorco/PSoC4-MCU-Device-Related-Designs)
+#### 7. [PSoC 4 Pioneer Kit](https://github.com/cypresssemiconductorco/PSoC4-MCU-Pioneer-Kits)
+#### 8. [System Design](https://github.com/cypresssemiconductorco/PSoC4-MCU-System Design)
 
 You can use these block level examples to guide you through the development of a system-level design using PSoC 4 MCU. All the code examples in this repository comes with well documented design guidelines to help you understand the design and how to develop it. The code examples and their associated documentation are in the Code Example folder in the repository.
 
