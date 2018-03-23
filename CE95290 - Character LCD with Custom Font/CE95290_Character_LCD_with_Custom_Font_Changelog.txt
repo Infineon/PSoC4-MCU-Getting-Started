@@ -1,0 +1,102 @@
+==============================================================
+CharLCD_CustomFont v2.0
+==============================================================
+
+- 2010-10-8 no CDT, oleg_ukr
+
+[UserInfo]
+Updated project description on the TopDesign schematic with 
+larger font. 
+Updated device.h file header note with Cypress copyright.
+
+[Internal]
+Added example project generated files.
+Added cypress addres to TopDesign properties.
+
+[Reason for Change]
+Required changes according PTIN_UKR #12.
+
+==============================================================
+
+- 2010-11-03 no CDT, oleg_ukr
+
+[UserInfo]
+Changed Xml project name fronm LCD_CustomFont to 
+CharLCD_CustomFont.
+Fixed wrong folder name in the content.cyproj file. CDT 87002.
+
+[Internal]
+No.
+
+[Reason for Change]
+Safety changes.
+
+==============================================================
+
+- 2010-04-18, CDT 98065, oleg_ukr
+
+[UserInfo]
+None
+
+[Internal]
+Deleted all generated files.
+
+[Reason for Change]
+As per CDT 98065.
+
+==============================================================
+
+- 2010-07-11, no CDT, oleg_ukr
+
+[UserInfo]
+None
+
+[Internal]
+Added string <Architecture>PSoC5</Architecture> to the *.xml 
+file.
+
+[Reason for Change]
+Project should work on both PSoC3 and PSoC5 family devices.
+
+==============================================================
+
+- 2012-04-06, no CDT, oleg_ukr
+
+[UserInfo]
+None
+
+[Internal]
+Updated Char LCD cpmponent to version 1.60 and cy_boot 
+to version 3.0.
+
+[Reason for Change]
+All components should use the latest versions.
+
+==============================================================
+
+- 2012-06-05, no CDT, rodi
+
+[UserInfo]
+Added example project datasheet
+
+[Internal]
+Updated Char LCD component to version 2.10.
+
+[Reason for Change]
+All components should use the latest versions.
+
+==============================================================
+
+- 2016-09-02, ECN #5424028, wesl
+
+[UserInfo]
+This code example has been moved to Cypress Spec system
+
+[Internal]
+See Spec 001-95290 for revision history, any further document history
+will be tracked through spec 001-95290
+
+[Reason for Change]
+Moving into spec system
+
+==============================================================
