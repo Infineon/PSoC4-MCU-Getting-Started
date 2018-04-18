@@ -1,0 +1,33 @@
+<?xml version="1.0" encoding="utf-8"?>
+<Project Name="I2C_LCD" WorkspaceName="CE195325.cywrk">
+  <Version>1.10</Version>
+  <Keyword>I2C_LCD</Keyword>
+  <Keyword>LCD</Keyword>
+  <Keyword>I2C</Keyword>
+  <Keyword Hidden="true">CY8CKIT-040</Keyword>
+  <Keyword Hidden="true">CY8CKIT-041-40XX</Keyword>
+  <Keyword Hidden="true">CY8CKIT-041-41XX</Keyword>
+  <Keyword Hidden="true">CY8CKIT-042</Keyword>
+  <Keyword Hidden="true">CY8CKIT-042-BLE</Keyword>
+  <Keyword Hidden="true">CY8CKIT-042-BLE-A</Keyword>
+  <Keyword Hidden="true">CY8CKIT-044</Keyword>
+  <Keyword Hidden="true">CY8CKIT-046</Keyword>
+  <Keyword Hidden="true">CY8CKIT-048</Keyword>
+  <Keyword Hidden="true">CY8CKIT-149</Keyword>
+  <Description>This code example demonstrates how to use the I2C LCD Component with the NXP PCF2119x compatible LCD modules. It also demonstrates the usage of address macros and custom commands.</Description>
+  <DeviceFilter>PSoC 4000</DeviceFilter>
+  <DeviceFilter>PSoC 4000S</DeviceFilter>
+  <DeviceFilter>PSoC 4100S</DeviceFilter>
+  <DeviceFilter>PSoC 4100</DeviceFilter>
+  <DeviceFilter>PSoC 4200</DeviceFilter>
+  <DeviceFilter>PSoC 4100 BLE</DeviceFilter>
+  <DeviceFilter>PSoC 4200 BLE</DeviceFilter>
+  <DeviceFilter>PSoC 4100M</DeviceFilter>
+  <DeviceFilter>PSoC 4200M</DeviceFilter>
+  <DeviceFilter>PSoC 4200L</DeviceFilter>
+  <DeviceFilter>PSoC Analog Coprocessor</DeviceFilter>
+  <DeviceFilter>PSoC 4100S Plus</DeviceFilter>
+  <Document>CE195325_I2C_LCD_with_PSoC4.pdf</Document>
+  <MinToolVersion>4.2</MinToolVersion> 
+</Project>
+
