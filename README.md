@@ -56,6 +56,12 @@ To use the code examples in this repository, please download and install
 This code example demonstrates the flexibility of a PSoC® 4, by implementing a breathing LED effect exclusively in hardware, with no CPU usage beyond initialization. The design uses two PWMs and an XOR gate to make an LED gradually cycle through increasing and decreasing brightness. The PWMs have slightly different periods, with 50% duty cycles. The rate of change in LED brightness is proportional to the difference between the PWM output frequencies.
 #### 2. CE95290 - Character LCD with Custom Font
 This code example demonstrates the use of available custom font with the LCD component. It displays "CYPRESS" in custom font on 2 X 16 LCD available with CY8CKIT-001 kit.
+#### 3. CE95291 - Char LCD using Horizontal Bar Graph (Hbar) with PSoC 4
+The CharLCD Hbar design project contains an example for the use of the CharLCD component. A series of horizontal bar graphs are drawn, left to right. Bars move towards the right, becoming shorter and shorter.
+#### 4. CE95325 - I2C LCD with PSoC 4
+This code example demonstartes functionality of I2C LCD component.
+#### 5. CE95369 - Segment LCD with PSoC 4
+This code example demonstrates the PSoC 4 Segment LCD.
 
 ## References
 #### 1. PSoC 4 MCU
