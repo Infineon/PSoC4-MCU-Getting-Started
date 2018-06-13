@@ -86,6 +86,6 @@ Interact with technical experts in the embedded design community and receive ans
 
 You can also use the following support resources if you need quick assistance:
 
-Self-help: [http://www.cypress.com/support] (http://www.cypress.com/support)
+Self-help: [http://www.cypress.com/support](http://www.cypress.com/support)
 
-Local Sales office locations: [http://www.cypress.com/about-us/sales-offices] (http://www.cypress.com/about-us/sales-offices)
+Local Sales office locations: [http://www.cypress.com/about-us/sales-offices](http://www.cypress.com/about-us/sales-offices)
